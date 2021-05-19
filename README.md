@@ -1,0 +1,1 @@
+# springsecurity-jwt-example-rolewise-access
